@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\mvc-task",
+    "\\mvc-task\\mvc-task1",
+    "\\mvc-task\\mvc-task1\\Controllers",
+    "\\mvc-task\\mvc-task1\\Views",
+    "\\mvc-task\\mvc-task1\\Views\\Cafeteria"
+  ],
+  "SelectedNode": "\\mvc-task\\mvc-task1\\Views\\Cafeteria\\SupplyStatus.cshtml",
+  "PreviewInSolutionExplorer": false
+}
