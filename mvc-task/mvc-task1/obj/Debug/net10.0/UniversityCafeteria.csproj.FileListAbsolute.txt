@@ -190,3 +190,10 @@ C:\Users\user\Desktop\orange tasks\mvc-task1\mvc-task\mvc-task1\obj\Debug\net10.
 C:\Users\user\Desktop\orange tasks\mvc-task1\mvc-task\mvc-task1\obj\Debug\net10.0\UniversityCafeteria.dll
 C:\Users\user\Desktop\orange tasks\mvc-task1\mvc-task\mvc-task1\obj\Debug\net10.0\refint\UniversityCafeteria.dll
 C:\Users\user\Desktop\orange tasks\mvc-task1\mvc-task\mvc-task1\obj\Debug\net10.0\UniversityCafeteria.pdb
+C:\Users\user\Desktop\orange tasks\mvc-task1\mvc-task\mvc-task1\bin\Debug\net10.0\UniversityCafeteria.deps.json
+C:\Users\user\Desktop\orange tasks\mvc-task1\mvc-task\mvc-task1\bin\Debug\net10.0\UniversityCafeteria.runtimeconfig.json
+C:\Users\user\Desktop\orange tasks\mvc-task1\mvc-task\mvc-task1\bin\Debug\net10.0\UniversityCafeteria.dll
+C:\Users\user\Desktop\orange tasks\mvc-task1\mvc-task\mvc-task1\bin\Debug\net10.0\UniversityCafeteria.pdb
+C:\Users\user\Desktop\orange tasks\mvc-task1\mvc-task\mvc-task1\obj\Debug\net10.0\UniversityCafeteria.genruntimeconfig.cache
+C:\Users\user\Desktop\orange tasks\mvc-task1\mvc-task\mvc-task1\obj\Debug\net10.0\ref\UniversityCafeteria.dll
+C:\Users\user\Desktop\orange tasks\mvc-task1\mvc-task\mvc-task1\obj\Debug\net10.0\Universi.3D4266FD.Up2Date

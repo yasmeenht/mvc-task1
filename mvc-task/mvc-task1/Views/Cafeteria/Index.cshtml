@@ -5,3 +5,11 @@
 }
 <h1>Welcome to University Cafeteria</h1>
 <a asp-controller="cafeteria" asp-action="products">Go To products</a>
+
+@{
+    string universityName = "Orange University";
+    string managerName = "Ahmad Ali";
+    int totalProducts = 5;
+}
+
+<h3>Welcome @managerName!<br />Total Products: @totalProducts</h3>

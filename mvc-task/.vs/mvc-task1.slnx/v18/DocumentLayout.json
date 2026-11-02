@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\controllers\\cafeteriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|solutionrelative:mvc-task1\\controllers\\cafeteriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\views\\cafeteria\\supplystatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|solutionrelative:mvc-task1\\views\\cafeteria\\supplystatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -21,6 +17,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\views\\cafeteria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|solutionrelative:mvc-task1\\views\\cafeteria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|solutionrelative:mvc-task1\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|solutionrelative:mvc-task1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\views\\shared\\_simplelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|solutionrelative:mvc-task1\\views\\shared\\_simplelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|solutionrelative:mvc-task1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|solutionrelative:mvc-task1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\controllers\\cafeteriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|solutionrelative:mvc-task1\\controllers\\cafeteriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,30 +50,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CafeteriaController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Controllers\\CafeteriaController.cs",
-              "RelativeDocumentMoniker": "mvc-task1\\Controllers\\CafeteriaController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Controllers\\CafeteriaController.cs",
-              "RelativeToolTip": "mvc-task1\\Controllers\\CafeteriaController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-01T11:14:17.966Z",
+              "DocumentIndex": 1,
+              "Title": "Suppliers.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\Cafeteria\\Suppliers.cshtml",
+              "RelativeDocumentMoniker": "mvc-task1\\Views\\Cafeteria\\Suppliers.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\Cafeteria\\Suppliers.cshtml",
+              "RelativeToolTip": "mvc-task1\\Views\\Cafeteria\\Suppliers.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-01T11:18:56.205Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "SupplyStatus.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\Cafeteria\\SupplyStatus.cshtml",
               "RelativeDocumentMoniker": "mvc-task1\\Views\\Cafeteria\\SupplyStatus.cshtml",
               "ToolTip": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\Cafeteria\\SupplyStatus.cshtml",
               "RelativeToolTip": "mvc-task1\\Views\\Cafeteria\\SupplyStatus.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-11-01T11:19:43.918Z",
               "EditorCaption": ""
@@ -61,38 +81,103 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Suppliers.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\Cafeteria\\Suppliers.cshtml",
-              "RelativeDocumentMoniker": "mvc-task1\\Views\\Cafeteria\\Suppliers.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\Cafeteria\\Suppliers.cshtml",
-              "RelativeToolTip": "mvc-task1\\Views\\Cafeteria\\Suppliers.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-01T11:18:56.205Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Products.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\Cafeteria\\Products.cshtml",
               "RelativeDocumentMoniker": "mvc-task1\\Views\\Cafeteria\\Products.cshtml",
               "ToolTip": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\Cafeteria\\Products.cshtml",
               "RelativeToolTip": "mvc-task1\\Views\\Cafeteria\\Products.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-01T11:22:52.823Z"
+              "WhenOpened": "2026-11-01T11:22:52.823Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\Cafeteria\\Index.cshtml",
               "RelativeDocumentMoniker": "mvc-task1\\Views\\Cafeteria\\Index.cshtml",
               "ToolTip": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\Cafeteria\\Index.cshtml",
               "RelativeToolTip": "mvc-task1\\Views\\Cafeteria\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-01T11:21:57.761Z"
+              "WhenOpened": "2026-11-01T11:21:57.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_MainLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\Shared\\_MainLayout.cshtml",
+              "RelativeDocumentMoniker": "mvc-task1\\Views\\Shared\\_MainLayout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\Shared\\_MainLayout.cshtml",
+              "RelativeToolTip": "mvc-task1\\Views\\Shared\\_MainLayout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-02T12:27:11.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "mvc-task1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "mvc-task1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-02T12:24:33.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_SimpleLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\Shared\\_SimpleLayout.cshtml",
+              "RelativeDocumentMoniker": "mvc-task1\\Views\\Shared\\_SimpleLayout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\Shared\\_SimpleLayout.cshtml",
+              "RelativeToolTip": "mvc-task1\\Views\\Shared\\_SimpleLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-02T12:52:05.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "mvc-task1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "mvc-task1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-02T12:35:06.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "mvc-task1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "mvc-task1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-02T12:25:16.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CafeteriaController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Controllers\\CafeteriaController.cs",
+              "RelativeDocumentMoniker": "mvc-task1\\Controllers\\CafeteriaController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Controllers\\CafeteriaController.cs",
+              "RelativeToolTip": "mvc-task1\\Controllers\\CafeteriaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T11:14:17.966Z"
             }
           ]
         }

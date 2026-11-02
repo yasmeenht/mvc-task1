@@ -2,17 +2,27 @@
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
 @{
+    Layout = "_SimpleLayout";
+}
+@{
+    string[] suppliers = { "Fresh Food Company", "Happy Drinks Company", "Daily Supplies Company"};
 }
 
 <h1>Cafeteria Suppliers</h1>
 
-<p>Our university cafeteria suppliers:</p>
 
 <ul>
-    <li>Fresh Dairy Supplier</li>
-    <li>Local Bakery</li>
-    <li>Fruit and Vegetable Supplier</li>
-    <li>Beverage Distributor</li>
-    <li>Snack Supplier</li>
+    @if (suppliers.Length > 2)
+    {
+        <p>We have enough suppliers</p>
+        @foreach(string supplier in suppliers)
+        {
+            <li>@supplier</li>
+        }
+    }
+    else
+    {
+        <p>We need more suppliers</p>
+    }
 </ul>
 <a asp-controller="cafeteria" asp-action="SupplyStatus">Go To supply status</a>
