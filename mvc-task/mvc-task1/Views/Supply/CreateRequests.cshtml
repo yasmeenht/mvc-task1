@@ -1,0 +1,35 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h2>Create Supply Request</h2>
+
+<form method="post" action="/Supply/SubmitRequests">
+
+    <label>Employee Name:</label>
+    <input type="text" name="employeeName">
+    <br><br>
+
+    <label>Product Name:</label>
+    <select name="productName">
+        <option>Water</option>
+        <option>Orange Juice</option>
+        <option>Coffee</option>
+        <option>Sandwich</option>
+        <option>Chocolate</option>
+    </select>
+    <br><br>
+
+    <label>Quantity:</label>
+    <input type="number" name="quantity" required>
+    <br><br>
+
+    <label>Required Date:</label>
+    <input type="date" name="requiredDate">
+    <br><br>
+
+    <button type="submit">Submit</button>
+
+</form>
