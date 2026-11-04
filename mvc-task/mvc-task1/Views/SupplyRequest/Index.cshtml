@@ -1,0 +1,62 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h2>Create Supply Request</h2>
+
+<form method=post asp-action="AddItem">
+    <label>Product Name:</label>
+    <input type="text" name="ProductName" required>
+
+    <br><br>
+
+    <label>Category:</label>
+    <select name="Category" required>
+        <option value="Food">Food</option>
+        <option value="Drinks">Drinks</option>
+        <option value="Snacks">Snacks</option>
+        <option value="Supplies">Supplies</option>
+    </select>
+
+    <br><br>
+
+    <label>Quantity:</label>
+    <input type="number" name="Quantity" min="1" required>
+
+    <br><br>
+
+    <label>Unit Price:</label>
+    <input type="number" name="UnitPrice" min="0.01" step="0.01" required>
+
+    <br><br>
+
+    <label>Priority:</label>
+    <select name="Priority">
+        @foreach (string priority in new[] { "Normal", "Urgent", "Emergency" })
+        {
+            <option value="@priority"
+                    selected="@(ViewBag.Priority == priority)">
+                @priority
+            </option>
+        }
+    </select>
+
+    <br><br>
+
+    <button type="submit">Add Product</button>
+</form>
+
+<h3>Preferred Priority</h3>
+
+<form method="post" asp-action="SavePreference">
+    <select name="priority">
+        <option value="Normal">Normal</option>
+        <option value="Urgent">Urgent</option>
+        <option value="Emergency">Emergency</option>
+    </select>
+
+    <button type="submit">Save Preference</button>
+</form>
+
+<p>Your preferred request priority is @ViewBag.Priority.</p>

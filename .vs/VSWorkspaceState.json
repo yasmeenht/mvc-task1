@@ -5,8 +5,9 @@
     "\\mvc-task\\mvc-task1",
     "\\mvc-task\\mvc-task1\\Controllers",
     "\\mvc-task\\mvc-task1\\Views",
-    "\\mvc-task\\mvc-task1\\Views\\Cafeteria"
+    "\\mvc-task\\mvc-task1\\Views\\Cafeteria",
+    "\\mvc-task\\mvc-task1\\Views\\Supply"
   ],
-  "SelectedNode": "\\mvc-task\\mvc-task1\\Views\\Cafeteria\\SupplyStatus.cshtml",
+  "SelectedNode": "\\mvc-task\\mvc-task1\\Views\\Supply\\About.cshtml",
   "PreviewInSolutionExplorer": false
 }

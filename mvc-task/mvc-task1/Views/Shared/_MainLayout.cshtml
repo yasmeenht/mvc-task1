@@ -9,50 +9,19 @@
 
 <body class="d-flex flex-column min-vh-100">
 
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <div class="container-fluid">
+    <a href="@Url.Action("Index", "Cafeteria")">Home</a>
 
-            <a class="navbar-brand" asp-controller="Supply" asp-action="Index">
-                University Cafeteria
-            </a>
+    <a href="@Url.Action("Products", "Cafeteria")">Products</a>
 
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav">
+    <a href="@Url.Action("Suppliers", "Cafeteria")">Suppliers</a>
 
-                    <li class="nav-item">
-                        <a class="nav-link" asp-controller="Supply" asp-action="Index">
-                            Home
-                        </a>
-                    </li>
+    <a href="@Url.Action("Index", "SupplyRequest")">Create Supply Request</a>
 
-                    <li class="nav-item">
-                        <a class="nav-link" asp-controller="Supply" asp-action="Products">
-                            Products
-                        </a>
-                    </li>
+    <a href="@Url.Action("Review", "SupplyRequest")">Review Draft</a>
 
-                    <li class="nav-item">
-                        <a class="nav-link" asp-controller="Supply" asp-action="Suppliers">
-                            Suppliers
-                        </a>
-                    </li>
+    <a href="@Url.Action("MyRequests", "SupplyRequest")">My Requests</a>
 
-                    <li class="nav-item">
-                        <a class="nav-link" asp-controller="Supply" asp-action="CreateRequests">
-                            Create Request
-                        </a>
-                    </li>
-
-                    <li class="nav-item">
-                        <a class="nav-link" asp-controller="Supply" asp-action="About">
-                            About
-                        </a>
-                    </li>
-
-                </ul>
-            </div>
-        </div>
-    </nav>
+    <a href="@Url.Action("About", "SupplyRequest")">About</a>
 
     <main class="flex-grow-1">
         @RenderBody()

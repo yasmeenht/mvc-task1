@@ -3,28 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|solutionrelative:mvc-task1\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\controllers\\supplyrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|solutionrelative:mvc-task1\\controllers\\supplyrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\views\\supply\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|solutionrelative:mvc-task1\\views\\supply\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\views\\supplyrequest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|solutionrelative:mvc-task1\\views\\supplyrequest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\controllers\\supplycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|solutionrelative:mvc-task1\\controllers\\supplycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\views\\supply\\submitrequests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|solutionrelative:mvc-task1\\views\\supply\\submitrequests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|solutionrelative:mvc-task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\views\\supplyrequest\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|solutionrelative:mvc-task1\\views\\supplyrequest\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|solutionrelative:mvc-task1\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\views\\supplyrequest\\myrequests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|solutionrelative:mvc-task1\\views\\supplyrequest\\myrequests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\views\\supplyrequest\\review.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|solutionrelative:mvc-task1\\views\\supplyrequest\\review.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\models\\supplyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|solutionrelative:mvc-task1\\models\\supplyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|solutionrelative:mvc-task1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\controllers\\cafeteriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|solutionrelative:mvc-task1\\controllers\\cafeteriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\views\\supplyrequest\\additem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|solutionrelative:mvc-task1\\views\\supplyrequest\\additem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\views\\cafeteria\\supplystatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|solutionrelative:mvc-task1\\views\\cafeteria\\supplystatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\views\\supply\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|solutionrelative:mvc-task1\\views\\supply\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\views\\supply\\createrequests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|solutionrelative:mvc-task1\\views\\supply\\createrequests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|solutionrelative:mvc-task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\views\\supply\\submitrequests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|solutionrelative:mvc-task1\\views\\supply\\submitrequests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{544D1C07-A35F-22A9-6DC4-4B67164B4960}|mvc-task1\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\views\\supply\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -46,19 +86,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\SupplyRequest\\About.cshtml",
+              "RelativeDocumentMoniker": "mvc-task1\\Views\\SupplyRequest\\About.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\SupplyRequest\\About.cshtml",
+              "RelativeToolTip": "mvc-task1\\Views\\SupplyRequest\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-04T11:52:32.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Program.cs",
+              "RelativeDocumentMoniker": "mvc-task1\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Program.cs",
+              "RelativeToolTip": "mvc-task1\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T18:27:10.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "_MainLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\Shared\\_MainLayout.cshtml",
               "RelativeDocumentMoniker": "mvc-task1\\Views\\Shared\\_MainLayout.cshtml",
               "ToolTip": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\Shared\\_MainLayout.cshtml",
               "RelativeToolTip": "mvc-task1\\Views\\Shared\\_MainLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-11-03T21:02:42.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyRequests.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\SupplyRequest\\MyRequests.cshtml",
+              "RelativeDocumentMoniker": "mvc-task1\\Views\\SupplyRequest\\MyRequests.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\SupplyRequest\\MyRequests.cshtml",
+              "RelativeToolTip": "mvc-task1\\Views\\SupplyRequest\\MyRequests.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-04T11:52:16.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SupplyRequestController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Controllers\\SupplyRequestController.cs",
+              "RelativeDocumentMoniker": "mvc-task1\\Controllers\\SupplyRequestController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Controllers\\SupplyRequestController.cs",
+              "RelativeToolTip": "mvc-task1\\Controllers\\SupplyRequestController.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAmwKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T11:49:27.991Z",
               "EditorCaption": ""
             },
             {
@@ -69,7 +161,7 @@
               "RelativeDocumentMoniker": "mvc-task1\\Controllers\\SupplyController.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Controllers\\SupplyController.cs",
               "RelativeToolTip": "mvc-task1\\Controllers\\SupplyController.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAQwDwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-03T17:39:55.417Z",
               "EditorCaption": ""
@@ -77,19 +169,120 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\SupplyRequest\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvc-task1\\Views\\SupplyRequest\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\SupplyRequest\\Index.cshtml",
+              "RelativeToolTip": "mvc-task1\\Views\\SupplyRequest\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-04T11:51:47.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Review.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\SupplyRequest\\Review.cshtml",
+              "RelativeDocumentMoniker": "mvc-task1\\Views\\SupplyRequest\\Review.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\SupplyRequest\\Review.cshtml",
+              "RelativeToolTip": "mvc-task1\\Views\\SupplyRequest\\Review.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-04T11:52:01.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SupplyRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Models\\SupplyRequest.cs",
+              "RelativeDocumentMoniker": "mvc-task1\\Models\\SupplyRequest.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Models\\SupplyRequest.cs",
+              "RelativeToolTip": "mvc-task1\\Models\\SupplyRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T20:02:10.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "mvc-task1\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Models\\Product.cs",
+              "RelativeToolTip": "mvc-task1\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T17:17:56.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CafeteriaController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Controllers\\CafeteriaController.cs",
+              "RelativeDocumentMoniker": "mvc-task1\\Controllers\\CafeteriaController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Controllers\\CafeteriaController.cs",
+              "RelativeToolTip": "mvc-task1\\Controllers\\CafeteriaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T20:30:27.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddItem.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\SupplyRequest\\AddItem.cshtml",
+              "RelativeDocumentMoniker": "mvc-task1\\Views\\SupplyRequest\\AddItem.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\SupplyRequest\\AddItem.cshtml",
+              "RelativeToolTip": "mvc-task1\\Views\\SupplyRequest\\AddItem.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-04T16:51:50.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SupplyStatus.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\Cafeteria\\SupplyStatus.cshtml",
+              "RelativeDocumentMoniker": "mvc-task1\\Views\\Cafeteria\\SupplyStatus.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\Cafeteria\\SupplyStatus.cshtml",
+              "RelativeToolTip": "mvc-task1\\Views\\Cafeteria\\SupplyStatus.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-04T08:25:27.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateRequests.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\Supply\\CreateRequests.cshtml",
+              "RelativeDocumentMoniker": "mvc-task1\\Views\\Supply\\CreateRequests.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\Supply\\CreateRequests.cshtml",
+              "RelativeToolTip": "mvc-task1\\Views\\Supply\\CreateRequests.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-03T20:51:19.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "About.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\Supply\\About.cshtml",
               "RelativeDocumentMoniker": "mvc-task1\\Views\\Supply\\About.cshtml",
               "ToolTip": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\Supply\\About.cshtml",
               "RelativeToolTip": "mvc-task1\\Views\\Supply\\About.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-03T20:17:17.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-03T20:17:17.897Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "SubmitRequests.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\Supply\\SubmitRequests.cshtml",
               "RelativeDocumentMoniker": "mvc-task1\\Views\\Supply\\SubmitRequests.cshtml",
@@ -97,38 +290,11 @@
               "RelativeToolTip": "mvc-task1\\Views\\Supply\\SubmitRequests.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-03T18:51:39.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-03T18:51:39.536Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateRequests.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\Supply\\CreateRequests.cshtml",
-              "RelativeDocumentMoniker": "mvc-task1\\Views\\Supply\\CreateRequests.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\Supply\\CreateRequests.cshtml",
-              "RelativeToolTip": "mvc-task1\\Views\\Supply\\CreateRequests.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-03T20:51:19.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Program.cs",
-              "RelativeDocumentMoniker": "mvc-task1\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Program.cs",
-              "RelativeToolTip": "mvc-task1\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-03T18:27:10.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\Supply\\Index.cshtml",
               "RelativeDocumentMoniker": "mvc-task1\\Views\\Supply\\Index.cshtml",
@@ -136,12 +302,11 @@
               "RelativeToolTip": "mvc-task1\\Views\\Supply\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-03T18:26:17.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-03T18:26:17.566Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "Suppliers.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\Supply\\Suppliers.cshtml",
               "RelativeDocumentMoniker": "mvc-task1\\Views\\Supply\\Suppliers.cshtml",
@@ -149,12 +314,11 @@
               "RelativeToolTip": "mvc-task1\\Views\\Supply\\Suppliers.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-03T18:13:47.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-03T18:13:47.335Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "Products.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\mvc-task1\\mvc-task\\mvc-task1\\Views\\Supply\\Products.cshtml",
               "RelativeDocumentMoniker": "mvc-task1\\Views\\Supply\\Products.cshtml",
@@ -162,8 +326,7 @@
               "RelativeToolTip": "mvc-task1\\Views\\Supply\\Products.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-03T18:13:44.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-03T18:13:44.647Z"
             }
           ]
         }
